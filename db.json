@@ -1,0 +1,21 @@
+{
+  "LoginForm": [
+    {
+      "id": 1,
+      "username": "Gilbert Shikwe",
+      "password": "ZainabuNyambu1234"
+    },
+    {
+      "uname": "Robert Bob Shikwe",
+      "psw": "robertbob12345",
+      "remember": "on",
+      "id": 2
+    },
+    {
+      "uname": "Barack Obama Otieno",
+      "psw": "Otieno barack12345",
+      "remember": "on",
+      "id": 3
+    }
+  ]
+}
